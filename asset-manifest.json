@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paintsgallery/static/css/main.ed1b5ef9.css",
+    "main.js": "/paintsgallery/static/js/main.768e07a9.js",
+    "static/media/switcher-dark.svg": "/paintsgallery/static/media/switcher-dark.403f581a5acb220ed1371178ff780034.svg",
+    "static/media/switcher-light.svg": "/paintsgallery/static/media/switcher-light.7efac3cbec09ed1764a502709e1ae415.svg",
+    "index.html": "/paintsgallery/index.html",
+    "main.ed1b5ef9.css.map": "/paintsgallery/static/css/main.ed1b5ef9.css.map",
+    "main.768e07a9.js.map": "/paintsgallery/static/js/main.768e07a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed1b5ef9.css",
+    "static/js/main.768e07a9.js"
+  ]
+}
